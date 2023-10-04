@@ -37,11 +37,12 @@ insert into employed values(2,'Suju','SALES',500000)
 ````
 ## Create employee table
 
-![image](https://github.com/Thenmozhi-Palanisamy/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/95198708/16056b35-fb17-498d-95b8-636d247224e2)
+![5-1](https://github.com/Thenmozhi-Palanisamy/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/95198708/16e5f06f-4e40-4f06-92b6-91fc026cbbb4)
 
 ## Create salary_log table
 
-![image](https://github.com/Thenmozhi-Palanisamy/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/95198708/85ef344a-352a-4310-92fd-535c9a936e47)
+![5-2](https://github.com/Thenmozhi-Palanisamy/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/95198708/c69b0e29-4491-46b1-b961-64481f88db73)
+
 
 ## PLSQL Trigger code
 ```
@@ -73,7 +74,11 @@ SELECT * FROM sal_log;
 ```
 ## output:
 
-![image](https://github.com/Thenmozhi-Palanisamy/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/95198708/c4b626bd-8ad8-401d-8322-23e7b6ef971a)
+![5-3](https://github.com/Thenmozhi-Palanisamy/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/95198708/1cef5005-f658-4c36-b243-eaa47eb9257d)
+
+
+![5-4](https://github.com/Thenmozhi-Palanisamy/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/95198708/605f733d-edfe-4cb9-b8a8-05d025b19159)
+
 
 ## Result:
 Thus the program implemented successfully.
